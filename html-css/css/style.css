@@ -1,0 +1,45 @@
+body{
+	background-color: gray;
+
+	font-family: Arial;
+    line-height: 1.9;
+    font-size: 40px;
+}
+.ter{
+	margin-left: 520px ;
+}
+
+img{
+	margin-left: px ;
+	width: 300px;
+	height: 300px;
+}
+	P{
+		text-align: center;
+		color: darkblue;
+
+	}
+
+	.tes{
+		margin-left: 1300px;
+	}
+
+input{
+	margin-left: 750px;
+}
+
+.tutu{
+	margin-left: 550px;
+	
+}
+
+.patty{
+	margin-left: 650px;
+}
+
+
+.title{
+	font-size: 60px;
+	color: orange;
+	text-align: center;
+}
